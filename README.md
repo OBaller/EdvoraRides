@@ -1,0 +1,2 @@
+# EdvoraRides
+ Upcoming ride:  It shows all rides which has date in future.   Past ride:  It shows all rides which has date in past.   Filters Every ride has state and city. You need to get state and city from every ride object and create a list of state &amp; city for the filters dropdown.   State : It shows rides from that state only.  City: It shows rides from selected city only. If a state is already selected then the city dropdown will have cities from selected state only.  
